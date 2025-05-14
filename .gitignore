@@ -28,11 +28,3 @@ coverage
 *.sw?
 
 *.tsbuildinfo
-node_modules/.vite/deps/_metadata.json
-node_modules/.vite/deps/chunk-U3LI7FBV.js
-node_modules/.vite/deps/chunk-U3LI7FBV.js.map
-node_modules/.vite/deps/package.json
-node_modules/.vite/deps/vue-router.js
-node_modules/.vite/deps/vue-router.js.map
-node_modules/.vite/deps/vue.js
-node_modules/.vite/deps/vue.js.map
