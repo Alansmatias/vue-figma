@@ -2,6 +2,8 @@
 import Header from './components/Header.vue';
 import StatusInicial from './components/Status-inicial.vue';
 import Menu1 from './components/Menu-1.vue';
+import MenuBottom from './components/Menu-Bottom.vue';
+import Conteudo from './components/Conteudo.vue';
 </script>
 
 <template>
@@ -9,6 +11,8 @@ import Menu1 from './components/Menu-1.vue';
     <Header />
     <StatusInicial />
     <Menu1 />
+    <MenuBottom />  
+    <Conteudo />
   </div>
 </template>
 
@@ -18,7 +22,6 @@ import Menu1 from './components/Menu-1.vue';
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: rgb(235, 235, 235);
 }
 </style>
 

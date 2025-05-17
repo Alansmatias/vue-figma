@@ -48,7 +48,7 @@
   };
   </script>
   
-  <style>
+  <style scoped>
   .menu-container {
     width: 334px;
     height: 137px;
